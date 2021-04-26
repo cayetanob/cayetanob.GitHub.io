@@ -13,8 +13,10 @@ Para más detalles de proyeco:  [Datos Covid México](https://github.com/cayetan
 ### Covid México, descarga directa de Docker hub.
 
 La imagen Docker tiene Datos covid México al 21 Abril 2021 + ubuntu con paquetes tree, csvkit, unzip, tldr
+Más información aqui.      [Datos Covid México en Ubuntu](https://hub.docker.com/repository/docker/cayetanob/cbvubuntucovid)
 
 Este archivo lo descargarás con el siguiente comando:
+
 
 ** docker push cayetanob/cbvubuntucovid:tagname **
 
