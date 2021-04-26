@@ -8,7 +8,7 @@ Listado de proyectos:
 
 Descarga el repositorio con infomración para crear un Contenedor Docker, que a la vez descargue la base de datos actualizada de Covid, publicada pora la Secretaría de Salud.
 
-Para más detalles de proyeco:  [Datos Covid México](https://github.com/cayetanob/covid-mexico).
+Para más detalles de proyeco:  [Datos Covid México](https://cayetanob.github.io/covid-mexico/).
 
 
 
