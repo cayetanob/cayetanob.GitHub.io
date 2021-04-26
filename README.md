@@ -1,5 +1,7 @@
 ## Bienvenidos a mis proyectos de Ciencia de Datos.
 
+<img src="data-science.jpg">
+
 Listado de proyectos:
 
 ### Covid México con Dockerfile 
