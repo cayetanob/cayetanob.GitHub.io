@@ -2,7 +2,7 @@
 
 Listado de proyectos:
 
-### Covid México 
+### Covid México con Dockerfile 
 
 Descarga el repositorio con infomración para crear un Contenedor Docker, que a la vez descargue la base de datos actualizada de Covid, publicada pora la Secretaría de Salud.
 
@@ -10,9 +10,15 @@ Para más detalles de proyeco:  [Datos Covid México](https://github.com/cayetan
 
 
 
-### Jekyll Themes
+### Covid México, descarga directa de Docker hub.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cayetanob/cayetanob.GitHub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+La imagen Docker tiene Datos covid México al 21 Abril 2021 + ubuntu con paquetes tree, csvkit, unzip, tldr
+
+Este archivo lo descargarás con el siguiente comando:
+
+** docker push cayetanob/cbvubuntucovid:tagname **
+
+
 
 ### Contáctanos en:
 
