@@ -6,31 +6,17 @@ Listado de proyectos:
 
 Descarga el repositorio con infomración para crear un Contenedor Docker, que a la vez descargue la base de datos actualizada de Covid, publicada pora la Secretaría de Salud.
 
+Para más detalles de proyeco:  [Datos Covid México](https://github.com/cayetanob/covid-mexico).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cayetanob/cayetanob.GitHub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contáctanos en:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contactarme por correo electrónico a  cayetano en gmail.com.
+
+
+Gracias.
